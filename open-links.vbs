@@ -1,7 +1,7 @@
 Const navOpenInBackgroundTab = &H1000
 
 VKB = "https://vkbexternal.partners.extranet.microsoft.com/vkbweb/?portalid=1"
-KIT = "https://pakeyinfoext.one.microsoft.com/kit/default.aspx"
+KIT = "https://kit.one.microsoft.com/"
 PACSR = "https://mspacsr.microsoft.com/"
 LMI = "https://aka.ms/lmi"
 OfficeD3 = "https://sharepoint.partners.extranet.microsoft.com/sites/GCS/commboard/Pages/Office-Decision-Tree-PIlot.aspx"

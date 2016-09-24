@@ -1,7 +1,7 @@
 var navOpenInBackgroundTab = 0x1000;
 var oIE = new ActiveXObject("InternetExplorer.Application");
 oIE.Navigate2("https://vkbexternal.partners.extranet.microsoft.com/vkbweb/?portalid=1");
-oIE.Navigate2("https://pakeyinfoext.one.microsoft.com/kit/default.aspx", navOpenInBackgroundTab);
+oIE.Navigate2("https://kit.one.microsoft.com/", navOpenInBackgroundTab);
 oIE.Navigate2("https://mspacsr.microsoft.com/", navOpenInBackgroundTab);
 oIE.Navigate2("https://aka.ms/lmi", navOpenInBackgroundTab);
 oIE.Navigate2("https://sharepoint.partners.extranet.microsoft.com/sites/GCS/commboard/Pages/Office-Decision-Tree-PIlot.aspx");
